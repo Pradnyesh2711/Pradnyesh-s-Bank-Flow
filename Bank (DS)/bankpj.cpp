@@ -506,7 +506,7 @@ int main()
   system("Color B");
   system("cls");
   cout<<"\n";
-    cout<<"                                                    PJ BANKING SYSTEM                                                               "<<endl;
+    cout<<"                                                    PJ BANK FLOW SYSTEM                                                               "<<endl;
   cout<<"                                                            Made by PRADNYESH JAIN  VINAY JADHAV                                                  "<<endl;
   cout<<"\n"<<endl;
   cout<<"                                                       ********************************"<<endl;
